@@ -1,34 +1,38 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `blog by Wuxy`,
+    name: `wuxy`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to Wuxy's blog, waiting to upgrade.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/Wuxy-Bleu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/`,
       },
       {
         name: `dribbble`,
         url: `https://dribbble.com/narativestudio`,
       },
+      // {
+      //   name: `gmail`,
+      //   url: `wgrantbleuthefall@gmail.com`,
+      // },
     ],
   },
   plugins: [
