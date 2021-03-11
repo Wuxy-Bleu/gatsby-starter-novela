@@ -1,5 +1,5 @@
 # Gatsby Starter Novela
-Auto created by netflity, i mean it's fork from https://github.com/narative/gatsby-starter-novela
+Auto created by netflity, i mean it's like fork from https://github.com/narative/gatsby-starter-novela
 
 # Using Gatsby Starter Novela
 
