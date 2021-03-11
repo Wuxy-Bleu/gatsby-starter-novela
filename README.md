@@ -1,11 +1,5 @@
-<a href="https://novela.narative.co" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
-</a>
-
-<br/>
-
 # Gatsby Starter Novela
-auto created by netflity, i mean it's fork from https://github.com/narative/gatsby-starter-novela
+Auto created by netflity, i mean it's fork from https://github.com/narative/gatsby-starter-novela
 
 # Using Gatsby Starter Novela
 
